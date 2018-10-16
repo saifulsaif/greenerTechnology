@@ -1,0 +1,200 @@
+/*
+Project:	Finex - Multipurpose Business and Corporate HTML5 Template
+Version:	1.0.0
+Assigned to:	Themeforest
+Primary use:	
+ */
+
+/*=======================================================================
+[Table of contents]
+=========================================================================
+1. Fonts
+2. Normalization
+3. Section setup
+4. Margin and padding setup
+==========================================================================*/
+
+/*=======================================================================
+// Fonts
+=========================================================================*/
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,300,400,600,700);
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,700);
+
+
+/* Normalization */
+htm,body{
+   font-family: 'Poppins', sans-serif;
+    font-weight: normal; 
+	font-style: normal; 
+	font-size: 14px; 
+	color: #626262;
+    line-height: 30px;
+}
+a{
+    color: #222222;
+    transition: all ease 500ms;
+    -moz-transition: all ease 500ms;
+    -webkit-transition: all ease 500ms;
+    -ms-transition: all ease 500ms;
+    -o-transition: all ease 500ms;
+}
+a:hover{
+    text-decoration: none;
+    color: #82b33e;
+}
+a:focus{
+    outline: 0;
+    text-decoration: none;
+}
+ul,
+ol{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+button{
+    border: none;
+}
+h1, h2, h3, h4, h5, h6{
+    font-weight: 700;
+    color: #000000;
+    line-height: .8;
+     font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+/*=======================================================================
+//  Margin and padding setup
+=========================================================================*/
+.noPadding{
+    padding: 0px;
+}
+.noPaddingBottom{
+    padding-bottom: 0px !important;
+}
+.noPaddingLeft{
+    padding-left: 0px !important;
+}
+.noPaddingRight{
+    padding-right: 0px !important;
+}
+.noMarginBottom{
+    margin-bottom: 0px !important;
+}
+.noMarginRight{
+    margin-right: 0px !important;
+}
+.noPaddingTop{
+    padding-top: 0px !important;
+}
+
+/*=======================================================================
+// Theme Button
+=========================================================================*/
+.theme_color{
+	color:#82b33e;
+}
+.themeBtn {
+    background: #82b33e;
+    color: #fff;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 700;
+    height: 50px;
+    line-height: 0.8;
+    padding: 18px 30px;
+    text-transform: capitalize;
+}
+.themeBtn:hover{
+    color: #fff;
+    background: #333;
+}
+.themeBtn.bgwhite{
+    background: #fff;
+    color: #000000;
+}
+.themeBtn.bgwhite:hover{
+    background: #333;
+    color: #fff;
+}
+.white{
+	color:#fff;
+}
+.black{
+	color:#000000;
+}
+/*=======================================================================
+// Section SetUp
+=========================================================================*/
+.commonSection{
+    padding: 60px 0;
+    position: relative;
+}
+
+.bggray{
+    background: #f0f0f0;
+}
+.overlay85:before{
+    background: rgba(44, 62, 80, .85);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    content: '';
+    width: 100%;
+    height: 100%;
+}
+.themeHeadding{}
+.themeHeadding h2{
+    font-size: 28px;
+    line-height: .8;
+    color: #fff;
+    margin-bottom: 40px;
+    position: relative;
+}
+.themeHeadding.black h2{
+    color: #2c3e50;
+}
+.themeHeadding h2::after {
+    background: #82b33e;
+    content: "";
+    height: 2px;
+    position: absolute;
+    width: 60px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 40px;
+}
+.themeHeadding p{
+    font-size: 17px;
+    line-height: 36px;
+    color: #fff;
+}
+.commonSectionTitle{
+    margin-bottom: 60px;
+}
+.commonSectionTitle h2{
+    font-size: 28px;
+    color: #2c3e50;
+    position: relative;
+    padding-bottom: 25px;
+}
+.portfolio_sec .themeHeadding h2::after, .aboutcontain .themeHeadding h2::after{
+margin: 0;	
+}
+.commonSectionTitle h2:after{
+    width: 60px;
+    height: 2px;
+    background: #82b33e;
+    content: '';
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+}
+.commonSectionTitle.two{
+    margin-bottom: 40px;
+}

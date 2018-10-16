@@ -1,0 +1,519 @@
+/*
+Project:	Finex- Multipurpose Business and Corporate HTML5 Template
+Version:	1.0.0
+Assigned to:	Themeforest
+Primary use:	
+ */
+
+
+@media(min-width:768px) and (max-width:990px) {
+.index .commonSection.fillterProject .fillterNav {
+    text-align: left;
+}
+.slider-text p {
+    font-size: 14px;
+    margin-bottom: 30px;
+    color: #fff;
+}
+.theme_slider_title {
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+    .headerTop p{
+        font-size: 10px;
+    }
+    .headertop .logo img{
+        width: 100%;
+        height: auto;
+    }
+    .tabtopInfo{
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    .mainnav ul{
+        text-align: center;
+    }
+    .mainnav ul li{
+        margin-right: 14px;
+    }
+    .searchForm{
+        padding-left: 0;
+    }
+    .tp-rightarrow.tparrows.default.round {
+        right: 15px !important;
+        top: 49% !important;
+    }
+    .tp-leftarrow.tparrows.default.round {
+        left: 15px !important;
+        top: 49% !important;
+    }
+    .revCont,
+    .revBtn{
+        margin-left: 120px;
+    }
+    .mainnav ul ul.sub-menu{
+        left: -15px;
+        margin-left: 0;
+    }
+    .revCont h1{
+        margin-top: -50px;
+    }
+    .revCont h2{
+        margin-top: -20px;
+    }
+    .footer .widget{
+        margin-bottom: 50px;
+    }
+    .aboutimg img{
+        width: 100%;
+        height: auto;
+    }
+    .singleTeam{
+        margin-bottom: 50px;
+    }
+    .service  {
+        padding: 70px 15px 70px 35px;
+    }
+    .singleProCaro ol.carousel-indicators{
+        bottom: -140px
+    }
+    .singleProCaro .carousel-indicators li{
+        width: 160px;
+    }
+    .blogSidebar{
+        margin-top: 60px;
+    }
+    .commentForm textarea{
+        margin-bottom: 30px;
+    }
+    .colorPresetArea{
+        display: none
+    }
+
+
+}
+@media(max-width:992px) {
+.themeHeadding h2 {
+    margin-bottom: 45px;
+}
+.team_sect {
+    margin-bottom: 30px;
+}
+	#footer .inside .social {
+		padding-bottom: 25px;
+	}
+	#footer .inside {
+		height: 100%;
+	}
+	.m-margin {
+    margin-bottom: 45px;
+}
+
+}
+@media(min-width:768px) {
+.aboutimg{
+  margin-top: 30px;
+
+}
+.mainnav ul li:last-child {
+    padding-right: 0;
+    margin-right: .0;
+}
+.mainnav {
+     text-align: right; 
+}
+.header.fixedHeader .menu-spacer
+{
+height: 0px;
+}
+.menu-spacer {
+    height: 40px;
+}
+.breadsec{
+	    padding: 110px 0 20px 0;
+}
+}
+@media(min-width:991px){
+.aboutcontain .themeHeadding h2 {
+    margin-bottom: 50px;
+}
+.service_sec .themeHeadding h2 {
+    margin-bottom: 50px;
+    position: relative;
+}
+}
+@media(min-width:991px) and (max-width:1280px){
+.themeHeadding h2 {
+    margin-bottom: 60px;
+}
+.col-lg-6.text-left.portfolio_sec {
+    width: 30%;
+    float: left;
+}
+.team-social a{
+width:30px;
+height:30px;
+}
+    .tabtopInfo{
+        margin-top: 30px;
+    }
+    .searchForm{
+        padding-left: 0;
+    }
+    .revCont,
+    .revBtn{
+        margin-left: 130px;
+    }
+    .tp-rightarrow.tparrows.default.round {
+        right: 15px !important;
+        top: 49% !important;
+    }
+    .tp-leftarrow.tparrows.default.round {
+        left: 15px !important;
+        top: 49% !important;
+    }
+}
+@media(min-width:320px) and (max-width:480px){
+.showit {
+    bottom: 80px;
+    right: 10px;
+}
+.service-text {
+    padding: 0 20px;
+}
+.service {
+    margin: 10px 0;
+}
+
+#footer .m-margin {
+    margin-bottom: 30px;
+}
+#footer .inside .social {
+    padding-bottom: 10px;
+}
+.sliderBtn{
+display:none;
+}
+.fillterNav li {
+    margin-right: 18px;
+}
+.promo_sec .themeHeadding h2::after {
+    top: 65px;
+}
+.themeHeadding p {
+    padding: 0 20px;
+}
+#footer .col-md-12 {
+    padding-left: 0;
+    padding-right: 0;
+}
+.breadcrumbSec {
+    padding: 78px 0 60px;
+}
+
+.index .commonSection.fillterProject .fillterNav {
+    text-align: left !important;
+}
+}
+
+@media(min-width:320px) and (max-width:767px){
+#about_sec{
+padding-bottom:35px;
+}
+#footer .inside .social {
+     padding-top: 0px; 
+}
+#counter .countdown{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+#footer .inside{
+padding: 40px 0;
+}
+.fillterNav {
+    margin-bottom: 20px;
+}
+.mainnav ul ul.sub-menu li{
+text-align:center;
+}
+.aboutcontain {
+ margin-top: 0px;
+    margin-bottom: 30px;
+}
+.team_sect {
+    margin-bottom: 30px;
+}
+.singleBlog {
+    margin-bottom: 30px;
+}
+.testmonial, .index .fillterProject{
+padding-top:0px !important;
+}
+#blog_Sec {
+    padding-bottom: 20px;
+}
+.testmonialsec .owl-controls {
+    margin-top: 30px;
+}
+#main_slider .owl-controls .owl-nav .owl-prev {
+     margin-left: 0px;
+     padding: 0px;
+    width: 30px;
+    height: 30px;
+    font-size: 14px;
+}
+ #main_slider .owl-controls .owl-nav .owl-next {
+     margin-right: 0px;
+     padding: 0px;
+    width: 30px;
+    height: 30px;
+    font-size: 14px;
+}	
+	
+.theme_slider_title{
+font-size:18px;
+padding-bottom:5px;
+}
+.slider-text .text-left{
+text-align:center;
+}
+ .headertop{
+	 display:none;
+ }
+   .slider-text p{
+	 display:none; 
+   }
+   .slider-text {
+    margin-top: -25px;
+   }
+
+   .themeBtn{
+	   padding: 12px 15px;
+    height: 35px;
+    font-size: 13px;
+display:none;
+   }
+   .commonSection {
+    padding: 35px 0;
+    position: relative;
+}
+
+.teamsec {
+    padding-bottom: 15px;
+}
+    .Top {
+        float: none;
+        margin-left: 0;
+        margin-top: 5px;
+    }
+	.index .commonSection.fillterProject .fillterNav {
+    text-align: center;
+}
+    .headerTop p{
+        margin: 15px 0 0;
+    }
+    .socialLink {
+        display: inline-block;
+        text-align: center;
+        margin: auto;
+        float: none;
+    }
+    .socialLink a{
+        border: 1px solid #dddddd;
+        margin-right: 5px;
+    }
+    .logo {
+        padding-bottom: 15px;
+    display:none;
+    }
+    .headertop .logo img {
+        width: 100%;
+    }
+    .singMiddInfo{
+        margin-left: 0;
+        margin-bottom: 15px;
+        width: 100%;
+    }
+    .headMiddBtn a {
+        height: 35px;
+        padding: 10px;
+    }
+    .header{
+        padding: 10px 0;
+        min-height: 50px;
+    }
+    .mainnav ul,
+    .searchForm{
+        display: none;
+    }
+    .mobileMenu{
+        width: 25px;
+        height: 20px;
+        display: inline-block;
+        line-height: .2;
+        cursor: pointer;
+        position: absolute;
+        right: 15px;
+        top: 3px;
+    }
+    .mobileMenu span{
+        width: 100%;
+        height: 2px;
+        background: #fff;
+        display: inline-block;
+    }
+    .mobileMenu.active span{
+        background: #fff;
+    }
+    .logoMobile{
+        margin-top: 5px;
+    }
+    .mainnav ul {
+        height: 270px;
+        margin-top: 0px;
+        overflow: scroll;
+        text-align: center;
+        border-top: 1px solid #202d39;
+        padding-top: 15px;
+		background:#fff;
+    }
+    .mainnav ul li{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        display: block;
+        margin-bottom: 25px;
+    }
+	.index .themeHeadding p {
+    font-size: 15px;
+    line-height: 36px;
+    color: #fff;
+    padding: 0 10px;
+}
+    .mainnav ul ul.sub-menu {
+        left: 0;
+        margin-left: 0;
+        opacity: 1;
+        position: relative;
+        top: 0;
+        transition:none;
+        width: 100%;
+        z-index: 1;
+        text-align: center;
+        visibility: visible;
+        height: inherit;
+        padding-top: 0;
+    }
+	.mainnav ul li a{
+		color:#000;
+	}
+	.mainnav ul li:hover > a, .mainnav ul li.active a {
+    color: #373737;
+}
+    .mainnav ul li:hover ul.sub-menu{
+        top: 0;
+    }
+    .mainnav ul ul.sub-menu li {
+        margin: 20px 0 0;
+    }
+    .newsBlogIn{
+        top: 30px;
+    }
+.aboutimg {
+    margin-top: 20px;
+    padding: 0;
+}
+    .siBlogThumb img{
+        position: relative;
+        margin-bottom: 10px
+    }
+    .siBlogThumb{
+        padding-left: 0;
+        margin-bottom: 30px;
+    }
+    .footer .widget{
+        margin-bottom: 60px;
+    }
+    .copyright p{
+        text-align: left;
+        font-size: 13px;
+    }
+    .aboutimg img{
+        width: 100%;
+        height: auto;
+    }
+    .service  {
+        padding: 60px 10px 50px 10px;
+    }
+    .teammatesSec {
+        overflow: hidden;
+    }
+    .singleProCaro ol.carousel-indicators{
+        bottom: -230px;
+    }
+    .singleProCaro .carousel-indicators li{
+        width: 137px;
+        margin: 0;
+    }
+    .singleProCaro {
+        margin-bottom: 250px;
+    }
+    .blogMeta, .blogMeta a{
+        line-height: 24px;
+    }
+    .socialShare {
+        padding: 6px 12px 35px;
+    }
+    .fwaIn img{
+        position: relative;
+        margin-bottom: 30px;
+    }
+    .fwaIn{
+        padding: 15px;
+    }
+    .singComTitle{
+        font-size: 16px;
+    }
+    .comreplay{
+        top: 5px;
+    }
+    .blogSidebar{
+        margin-top: 60px;
+    }
+    .commentForm textarea{
+        margin-bottom: 30px;
+    }
+    .blogSidebar.left{
+        margin-top: 0;
+        margin-bottom: 60px;
+    }
+    .errorPage {
+        padding: 45px 0 75px;
+    }
+    .errorIn h1{
+        font-size: 140px;
+    }
+    .commentForm{
+        margin-bottom: 60px;
+    }
+.footer{
+padding-bottom:0px;
+}
+.columns {
+    width: 100%;
+}
+}
+
+@media(min-width:1200px) and (max-width:1400px){
+    .tp-leftarrow.tparrows.default.round {
+        left: 15px !important;
+        top: 49% !important;
+    }
+    .tp-rightarrow.tparrows.default.round {
+        right: 15px !important;
+        top: 49% !important;
+    }
+    .navigation > li:nth-of-type(2n+1) {
+        width: 55%;
+    }
+}
